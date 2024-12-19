@@ -1,0 +1,71 @@
+F1	Dim: 20		C.I.: 865		Mean: 3,1832E-58		SD: 5,168E-58
+F1	Dim: 30		C.I.: 399		Mean: 2,5509E-39		SD: 4,3365E-39
+F1	Dim: 50		C.I.: 0		Mean: 1,9563E-24		SD: 2,3185E-24
+
+F2	Dim: 20		C.I.: 732		Mean: 3,6303E-30		SD: 8,3115E-30
+F2	Dim: 30		C.I.: 166		Mean: 7,1271E-21		SD: 4,4901E-21
+F2	Dim: 50		C.I.: 0		Mean: 2,3605E-13		SD: 7,9176E-14
+
+F3	Dim: 20		C.I.: 0		Mean: 4,5743E1		SD: 2,4616E1
+F3	Dim: 30		C.I.: 33		Mean: 7,445E2		SD: 2,2484E2
+F3	Dim: 50		C.I.: 33		Mean: 7,5258E3		SD: 2,0893E3
+
+F4	Dim: 20		C.I.: 990		Mean: 1,163E-3		SD: 4,1143E-4
+F4	Dim: 30		C.I.: 987		Mean: 2,2333E-2		SD: 5,6357E-3
+F4	Dim: 50		C.I.: 991		Mean: 2,8285E-1		SD: 5,383E-2
+
+F5	Dim: 20		C.I.: 994		Mean: 1,3169E0		SD: 2,3918E0
+F5	Dim: 30		C.I.: 896		Mean: 9,8263E0		SD: 1,4388E1
+F5	Dim: 50		C.I.: 665		Mean: 6,0708E1		SD: 3,1401E1
+
+F6	Dim: 20		C.I.: 966		Mean: 9,2445E-34		SD: 3,1498E-33
+F6	Dim: 30		C.I.: 998		Mean: 1,1975E-23		SD: 1,8473E-23
+F6	Dim: 50		C.I.: 832		Mean: 8,7383E-16		SD: 1,3204E-15
+
+F7	Dim: 20		C.I.: 593		Mean: 5,5181E-1		SD: 2,7803E-1
+F7	Dim: 30		C.I.: 665		Mean: 5,9306E-1		SD: 2,5824E-1
+F7	Dim: 50		C.I.: 799		Mean: 7,0327E-1		SD: 2,7986E-1
+
+F8	Dim: 20		C.I.: 875		Mean: -8,3797E3		SD: 4,2323E-12
+F8	Dim: 30		C.I.: 881		Mean: -1,2569E4		SD: 4,7168E-12
+F8	Dim: 50		C.I.: 997		Mean: -2,0937E4		SD: 3,6139E1
+
+F9	Dim: 20		C.I.: 171		Mean: 0E0		SD: 0E0
+F9	Dim: 30		C.I.: 384		Mean: 0E0		SD: 0E0
+F9	Dim: 50		C.I.: 675		Mean: 0E0		SD: 0E0
+
+F10	Dim: 20		C.I.: 788		Mean: 1,7616E-14		SD: 3,3747E-15
+F10	Dim: 30		C.I.: 875		Mean: 5,2195E-14		SD: 1,046E-14
+F10	Dim: 50		C.I.: 33		Mean: 6,3576E-12		SD: 3,9763E-12
+
+F11	Dim: 20		C.I.: 977		Mean: 3,0487E-6		SD: 2,6139E-6
+F11	Dim: 30		C.I.: 990		Mean: 1,1075E-5		SD: 7,9628E-6
+F11	Dim: 50		C.I.: 994		Mean: 7,0043E-5		SD: 4,1714E-5
+
+F12	Dim: 20		C.I.: 624		Mean: 1,1424E-9		SD: 1,7298E-9
+F12	Dim: 30		C.I.: 605		Mean: 3,522E-10		SD: 7,5407E-10
+F12	Dim: 50		C.I.: 645		Mean: 1,2325E-10		SD: 1,8464E-10
+
+F13	Dim: 20		C.I.: 968		Mean: 1,6384E-31		SD: 6,0054E-31
+F13	Dim: 30		C.I.: 999		Mean: 8,8568E-23		SD: 3,0879E-22
+F13	Dim: 50		C.I.: 965		Mean: 1,3462E-14		SD: 6,9292E-14
+
+F14	Dim: 2		C.I.: 113		Mean: 9,98E-1		SD: 0E0
+
+F15	Dim: 4		C.I.: 875		Mean: 4,4041E-4		SD: 9,1742E-5
+
+F16	Dim: 2		C.I.: 173		Mean: -1,0316E0		SD: 6,7752E-16
+
+F17	Dim: 2		C.I.: 120		Mean: 3,9789E-1		SD: 0E0
+
+F18	Dim: 2		C.I.: 307		Mean: 3E0		SD: 1,452E-15
+
+F19	Dim: 3		C.I.: 305		Mean: -3,8794E0		SD: 2,3715E-15
+
+F20	Dim: 6		C.I.: 319		Mean: -3,3226E0		SD: 8,3286E-16
+
+F21	Dim: 4		C.I.: 274		Mean: -1,0153E1		SD: 6,2674E-15
+
+F22	Dim: 4		C.I.: 273		Mean: -1,0403E1		SD: 4,6649E-16
+
+F23	Dim: 4		C.I.: 397		Mean: -1,0536E1		SD: 1,682E-15
